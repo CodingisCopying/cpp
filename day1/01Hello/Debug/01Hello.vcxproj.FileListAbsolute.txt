@@ -1,1 +1,1 @@
-E:\Study\cpp\day1\01Hello\Debug\01Hello.exe
+E:\Study\cpp\day1\01Hello\Debug\day1.exe

@@ -15,16 +15,31 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="hello.cpp">
+    <ClCompile Include="01hello.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="sizeof关键字.cpp">
+    <ClCompile Include="02sizeof关键字.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="浮点型.cpp">
+    <ClCompile Include="03浮点型.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="字符型.cpp">
+    <ClCompile Include="04字符型.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="05字符串.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="06布尔类型.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="07数据输入.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="08运算符.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="09.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
